@@ -1,0 +1,21 @@
+{
+  "expenses": [
+    {
+      "id": 1778839907759,
+      "description": "food",
+      "amount": 2000.0,
+      "category": "Food",
+      "date": "2026-05-15"
+    },
+    {
+      "id": 1778839919739,
+      "description": "petorl",
+      "amount": 200.0,
+      "category": "Other",
+      "date": "2026-05-15"
+    }
+  ],
+  "income": 5000.0,
+  "goals": [],
+  "chat_history": []
+}
